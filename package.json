@@ -5,9 +5,9 @@
   "license": "MIT",
   "dependencies": {
     "jquery": "^3.3.1",
-    "next": "^8.0.4",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "next": "^8.0.5-canary.11",
+    "react": "^16.9.0-alpha.0",
+    "react-dom": "^16.9.0-alpha.0",
     "slick": "^1.12.2",
     "slick-carousel": "^1.8.1",
     "wow.js": "^1.2.2"
